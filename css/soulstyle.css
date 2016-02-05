@@ -375,3 +375,11 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: rgba(255,255,255,.2);
 }
+
+.col-md-4 {
+  border: 1px groove #1d9b6c;
+  padding-top: 20px;
+}
+.col-md-4 a {
+  color:white;
+}
